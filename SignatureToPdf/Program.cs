@@ -23,13 +23,7 @@ class Program
             // calculate the width and height of the page
             double width = page.Width;
             double height = page.Height;
-
-            // for (int i = 0; i < 3; i++)
-            // {
-            //     DrawSsignature(gfx, String.Format(@"C:\Users\supawit.kho\RiderProjects\SignatureToPdf\SignatureToPdf\signature\{0}.jpg",i+1) ,
-            //         width, height, (i+1));
-            // }
-            //
+            
             DrawSsignature(gfx, @"C:\Users\supawit.kho\RiderProjects\SignatureToPdf\SignatureToPdf\signature\1.jpg",
                 width, height, 1);
             
