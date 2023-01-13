@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zm399tpfRCnLT/CCffqJxEJstdcPUy8Z8IybYDqjkw9bJvb5c7c2US2dHUlVFCWa/+QNMA6QVdc7XPrBzV5xNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\supawit.kho\\RiderProjects\\SignatureToPdf\\SignatureToPdf\\SignatureToPdf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\supawit.kho\\.nuget\\packages\\pdfsharpcore\\1.3.43\\pdfsharpcore.1.3.43.nupkg.sha512",
+    "C:\\Users\\supawit.kho\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\supawit.kho\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\supawit.kho\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
